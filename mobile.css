@@ -1,0 +1,36 @@
+@media (max-width: 414px) {
+  body {
+    background-image: url(img/serene-small.jpg);
+    color: #cad0c2;
+  }
+
+  h1 {
+    margin-top: 40px;
+    color: #1f2f2e;
+  }
+
+  .gradient-circle {
+    background: conic-gradient(
+      #82b3b3 0%,
+      #82b3b3 40%,
+      #cad0c2 40%,
+      #cad0c2 60%,
+      #346c62 60%
+    );
+
+    height: 320px;
+    width: 320px;
+    top: -10px;
+    left: -10px;
+  }
+
+  .circle {
+    background-color: #1f2f2e;
+  }
+
+  .pointer {
+    height: 20px;
+    width: 20px;
+    display: block;
+  }
+}

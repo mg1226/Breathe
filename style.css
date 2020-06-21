@@ -5,7 +5,7 @@
 }
 
 body {
-  background: url(img/serene.jpg) no-repeat center center/cover;
+  background: #1f2f2e url(img/serene.jpg) no-repeat center;
   color: #c8bfb3;
   font-family: "Montserrat", sans-serif;
   min-height: 100vh;
@@ -17,6 +17,9 @@ body {
 }
 
 h1 {
+  color: #312c1e;
+  margin-top: 80px;
+  font-size: 50px;
   color: #312c1e;
 }
 
